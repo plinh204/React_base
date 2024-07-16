@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "SP2 update 123",
+      "price": "200",
+      "image": "https://picsum.photos/300/300",
+      "quantity": "100",
+      "description": "Mô tả"
+    },
+    {
+      "name": "sản phâm CC",
+      "price": "20000",
+      "image": "https://picsum.photo/300/300",
+      "quantity": "12",
+      "description": "xcvbnm",
+      "id": "6Tw_S20"
+    },
+    {
+      "name": "Trường thông minh",
+      "price": "20000",
+      "image": "https://picsum.photo/300/300",
+      "quantity": "234",
+      "description": "xx",
+      "id": "6qqpvdj"
+    }
+  ],
+  "users": []
+}
